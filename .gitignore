@@ -1,0 +1,5 @@
+*.log
+*.pot
+*.py[cod]
+__pycache__/
+apikey.py
